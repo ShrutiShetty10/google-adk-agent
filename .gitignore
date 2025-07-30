@@ -1,0 +1,19 @@
+# Ignore Python environment and cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+dist/
+build/
+venv/
+ENV/
+env/
+
+# Ignore .env files
+.env
+*.env
+
+# VS Code settings
+.vscode/
